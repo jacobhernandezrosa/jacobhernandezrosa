@@ -68,7 +68,7 @@ Juego clásico Snake con estilo retro 8-bit.
 
 ## 📫 Contacto
 - 📧 Email: **jacob.hernandez.inpha@gmail.com**
-- 🌐 Portafolio: https://jhrdev.vercel.app
+- 🌐 Portafolio: https://jhrdev-1.onrender.com/
 - 🖥️ GitHub: https://github.com/jacobhernandezrosa
 
 ---
